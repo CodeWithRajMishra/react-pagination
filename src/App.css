@@ -1,0 +1,11 @@
+.display
+{
+    display: flex;
+    list-style-type: none;
+}
+.mynum
+{
+    margin-left: 20px;
+    background-color: lightblue;
+    padding: 5px;  
+}
